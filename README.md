@@ -1,8 +1,8 @@
 # Calculate 311 Grades with curve
 
-python grades.py <A> <C>
+python grades.py [A] [C]
 
-python grades.py <A> <C> <Score> 
+python grades.py [A] [C] [Score]
 
 Example:
 
