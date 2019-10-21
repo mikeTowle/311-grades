@@ -5,7 +5,7 @@ import sys, collections
 
 def determine_grade(a,c,score):
 	grades = calculate(a,c)
-	for key in sorted(grades.keys()):
+	for key in (grades.keys()):
 		if(score >= grades[key]):
 			print("\nYour Score: " + str(score) + " = " + key)
 			break
