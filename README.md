@@ -4,6 +4,6 @@ python grades.py <A> <C>
 
 
 Example: 
-python grades.py 84 52
+python grades.py 84 52 -> 
 A  : 84
 A- : 79
