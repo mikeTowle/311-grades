@@ -1,8 +1,8 @@
 # Calculate 311 Grades with curve
 
-python grades.py <A> <C>
+python grades.py [A] [C]
 
-python grades.py <A> <C> <Score>
+python grades.py [A] [C] [Score]
 
 Example:
 
@@ -16,5 +16,5 @@ B-: 62
 C+: 55
 C : 50
 
-Your Score: 55 = C
+Your Score: 55 = C+
 
