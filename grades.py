@@ -34,6 +34,7 @@ def calculate(a, c):
 	grades["C"] = c
 	return grades
 
+
 def main(argv):
 
 	if(len(argv) == 2):
