@@ -16,5 +16,5 @@ B-: 62
 C+: 55
 C : 50
 
-Your Score: 55 = C
+Your Score: 55 = C+
 
